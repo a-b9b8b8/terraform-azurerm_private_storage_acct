@@ -1,3 +1,7 @@
+# terraform-azurerm_private_storage_acct
+
+Creates a resource group, storage account, and private endpoint for use with an existing Azure vnet.
+
 ## Requirements
 
 No requirements.
